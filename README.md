@@ -7,7 +7,16 @@
 [![Linkedin: ercanerdogan](https://img.shields.io/badge/-ercanerdogan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ercanerdogan/)](https://www.linkedin.com/in/ercanerdogan/)
 [![GitHub ercanerdogan](https://img.shields.io/github/followers/ercanerdogan?label=follow&style=social)](https://github.com/ercanerdogan)
 
-GitHub ercanerdogan
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ercanerdogan/ercanerdogan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanerdogan&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ercan Erdogan's GitHub Stats" />
+</a>
+
+<a href="https://github.com/ercanerdogan/ercanerdogan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ercanerdogan&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="Ercan Erdogan's GitHub Stats" />
+</a>
+
 
 <!--
 **ercanerdogan/ercanerdogan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
