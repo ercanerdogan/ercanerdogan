@@ -1,6 +1,6 @@
 <h2>Hi there I'm Ercan Erdoğan👋 </h2>
 
-<h2>Senior Software Enginner / Development Team Lead at <a href="https://www.innovile.com/" target="blank">Innovile</a></h2>
+<h2>Senior Software Enginner / Development Team Lead at <a href="https://www.innovile.com/" target="_blank">Innovile</a></h2>
 <h2> Get in Touch </h2>
 
 [![Twitter: cool_erci](https://img.shields.io/twitter/follow/cool_erci?style=social)](https://twitter.com/cool_erci)
