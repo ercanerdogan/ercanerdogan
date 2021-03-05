@@ -2,7 +2,7 @@
 
 <h2>Senior Software Enginner / Development Team Lead at <a href="https://www.innovile.com/">Innovile</a></h2>
 
-
+<h2> Get in Touch </h2>
 [![Twitter: cool_erci](https://img.shields.io/twitter/follow/cool_erci?style=social)](https://twitter.com/cool_erci)
 [![Linkedin: ercanerdogan](https://img.shields.io/badge/-ercanerdogan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ercanerdogan/)](https://www.linkedin.com/in/ercanerdogan/)
 [![GitHub ercanerdogan](https://img.shields.io/github/followers/ercanerdogan?label=follow&style=social)](https://github.com/ercanerdogan)
