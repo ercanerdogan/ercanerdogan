@@ -1,4 +1,4 @@
-<h2>I'm Ercan Erdoğan </h2>
+<h2>Hi, I'm Ercan Erdoğan </h2>
 
 <h2>Senior Software Engineer / Development Team Lead at <a href="https://www.innovile.com/" target="_blank" rel="noopener noreferrer">Innovile</a></h2>
 <h2> Get in Touch </h2>
