@@ -18,9 +18,9 @@
 </a>
 
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ercanerdogan)
-
+<p>
+  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ercanerdogan)
+</p>
 <!--
 
 ## &#x1f4c8; GitHub Stats
