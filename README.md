@@ -17,6 +17,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanerdogan&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact&&layout=compact&" alt="Ercan Erdogan" />
 </a>
 
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ercanerdogan&layout=compact&&locale=en&layout=compact&langs_count=18" alt="ercanerdogan"/>
+
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ercanerdogan)
 
