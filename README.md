@@ -9,12 +9,12 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/ercanerdogan/ercanerdogan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ercanerdogan&show_icons=true&line_height=20&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116" alt="GitHub Stats" />
+<a href="https://github.com/ercanerdogan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ercanerdogan&show_icons=true&include_all_commits=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="GitHub Stats" />
 </a>
 
-<a href="https://github.com/ercanerdogan/ercanerdogan">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanerdogan&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact&langs_count=6" alt="Ercan Erdogan" />
+<a href="https://github.com/ercanerdogan/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanerdogan&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="Ercan Erdogan" />
 </a>
 
 
