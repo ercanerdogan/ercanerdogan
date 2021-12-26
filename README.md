@@ -14,11 +14,13 @@ Challenging jobs excite me more. I am a motivated developer and a team player wi
 ## &#x1f4c8; GitHub Stats
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ercanerdogan&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ercanerdogan&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanerdogan&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=ercanerdogan&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ercanerdogan&theme=radical" alt="my commit status" width="49%" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanerdogan&count_private=true&langs_count=6&show_icons=true&theme=radical&layout=compact" alt="languages" width="50%"></p>
 
+radical
 
+ayu-mirage
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ercanerdogan)
 
