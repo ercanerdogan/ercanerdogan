@@ -9,6 +9,20 @@
 
 ## &#x1f4c8; GitHub Stats
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=ercanerdogan&count_private=true&show_icons=true&theme=ayu-mirage" alt="my github stats" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ercanerdogan&theme=ayu-mirage" alt="my commit status" width="49%" /> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanerdogan&count_private=true&show_icons=true&theme=ayu-mirage&layout=compact" alt="languages" width="50%"></p>
+
+
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ercanerdogan)
+
+<!--
+
+# old version
+## &#x1f4c8; GitHub Stats
+
 <a href="https://github.com/ercanerdogan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ercanerdogan&show_icons=true&include_all_commits=true&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="GitHub Stats" />
 </a>
@@ -17,10 +31,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanerdogan&hide=c%2B%2B,c,html&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=0e1116&layout=compact" alt="Ercan Erdogan" />
 </a>
 
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ercanerdogan)
-
-<!--
 
 ## &#x1f4c8; GitHub Stats
 
