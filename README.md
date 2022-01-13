@@ -4,7 +4,7 @@ Senior Software Developer with a demonstrated history of working in the computer
 
 Challenging jobs excite me more. I am a motivated developer and a team player with good communication skills and continuous self-development wish. I care about keeping my skills sharp. I am a good practitioner and self-learner.
 
-<h2>Senior Software Engineer / Development Team Lead at <a href="https://www.innovile.com/" target="_blank" rel="noopener noreferrer">Innovile</a></h2>
+<h2>Senior Software Engineer / Lead Developer at <a href="https://www.innovile.com/" target="_blank" rel="noopener noreferrer">Innovile</a></h2>
 <h2> Get in Touch </h2>
 
 [![Twitter: cool_erci](https://img.shields.io/twitter/follow/cool_erci?style=social)](https://twitter.com/cool_erci)
