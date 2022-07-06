@@ -1,6 +1,6 @@
 <h2>Hi, I'm Ercan Erdoğan </h2>
 
-<h2>I have been working as a Product Software Engineer at <a href="https://www.wolterskluwer.com/en/solutions/enablon" target="_blank" rel="noopener noreferrer">Enablon</a></h2>
+<h2>I have been working as a Product Software Engineer at <a href="https://www.wolterskluwer.com/en/solutions/enablon" target="_blank" rel="noopener noreferrer">Enablon - Wolters Kluwer</a></h2>
 
 Product Software Engineer with a demonstrated history of working in the computer software industry. The stages in the software development life cycle I have been contributing many years include requirement analysis, planning, designing, architecting solutions, implementing the ideal solution, and doing all these in an agile fashion.
 
