@@ -13,6 +13,7 @@ Challenging jobs excite me more. I am a motivated developer and a team player wi
 [![Linkedin: ercanerdogan](https://img.shields.io/badge/-ercanerdogan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ercanerdogan/)](https://www.linkedin.com/in/ercanerdogan/)
 [![GitHub ercanerdogan](https://img.shields.io/github/followers/ercanerdogan?label=follow&style=social)](https://github.com/ercanerdogan)
 
+<!--
 ## &#x1f4c8; GitHub Stats
 
 
@@ -20,7 +21,7 @@ Challenging jobs excite me more. I am a motivated developer and a team player wi
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ercanerdogan&theme=radical" alt="my commit status" width="49%" /> </p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercanerdogan&count_private=true&langs_count=6&show_icons=true&theme=radical&layout=compact" alt="languages" width="50%"></p>
 
-
+-->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ercanerdogan)
 
